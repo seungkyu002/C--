@@ -1,0 +1,10 @@
+﻿  이진트리.c
+C:\Users\당근\OneDrive\바탕 화면\JSK_자료구조\Week1\Week1\이진트리.c(63,2): warning C4013: 'display'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\당근\OneDrive\바탕 화면\JSK_자료구조\Week1\Week1\이진트리.c(65,2): warning C4013: 'show_parent'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\당근\OneDrive\바탕 화면\JSK_자료구조\Week1\Week1\이진트리.c(66,2): warning C4013: 'show_left_child'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\당근\OneDrive\바탕 화면\JSK_자료구조\Week1\Week1\이진트리.c(67,2): warning C4013: 'show_right_child'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+이진트리.obj : error LNK2019: displaymain 함수에서 참조되는 확인할 수 없는 외부 기호
+이진트리.obj : error LNK2019: show_parentmain 함수에서 참조되는 확인할 수 없는 외부 기호
+이진트리.obj : error LNK2019: show_left_childmain 함수에서 참조되는 확인할 수 없는 외부 기호
+이진트리.obj : error LNK2019: show_right_childmain 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\당근\OneDrive\바탕 화면\JSK_자료구조\Week1\x64\Debug\Week1.exe : fatal error LNK1120: 4개의 확인할 수 없는 외부 참조입니다.
